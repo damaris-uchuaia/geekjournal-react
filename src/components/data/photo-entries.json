@@ -1,0 +1,35 @@
+{
+    "itemlist" :
+    [
+        {
+            "src"       : "chess.jpg",
+            "caption"   : "Jogo de Tabuleiro",
+            "location"  : "Xadrez"
+        },
+        {
+            "src"       : "fliperama.jpg",
+            "caption"   : "Jogos Eletrônicos",
+            "location"  : "Fliperamas"
+        },
+        {
+            "src"       : "mario.jpg",
+            "caption"   : "Videogame",
+            "location"  : "Mario Bros"
+        },
+        {
+            "src"       : "rpg.jpg",
+            "caption"   : "RPG, tabuleiro",
+            "location"  : "Dragons"
+        },
+        {
+            "src"       : "online-games.jpg",
+            "caption"   : "MMO-RPG Online",
+            "location"  : "Online Games"
+        },
+        {
+            "src"       : "tabuleiro.jpg",
+            "caption"   : "Jogo de Tabuleiro",
+            "location"  : "Grow mind"
+        }
+    ]
+}
