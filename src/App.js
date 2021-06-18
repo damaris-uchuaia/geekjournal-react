@@ -12,7 +12,7 @@ function App() {
           <BannerImage />                                 {/* chamamos ele pra tela  */}
         <div>
           <h1>Welcome to my Geekjournal</h1>
-          <h3>Damaris Uchuaia Mori</h3>
+          <h3>Damaris Uchuaia</h3>
 
           <AlbumMaker />
 
